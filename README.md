@@ -1,6 +1,6 @@
 ![](https://github.com/azedeveloper/rick-astley-everywhere/blob/main/images/rick.jpg?raw=true)
 # Rick Astley Everywhere
-This chrome extension replaces every image with Rick Astley.
+This is a stupid chrome extension which replaces every image with Rick Astley. I made it in like 30 minutes so it probably has alot of bugs but yeah enjoy ig 💀
 
 
 ## How to run
